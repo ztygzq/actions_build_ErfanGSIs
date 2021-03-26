@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210310155425/PAFM00_11_OTA_3210_all_pAxSgvy7MJoa.ozip
+  ROM_URL: https://cloud189-liaoning-person.oos-lnsy.ctyunapi.cn/PERSONCLOUD/7d31d4a7-66e3-4bc1-a5e9-54457c405c42.ozip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=532482dfdc85e5d60592&x-amz-UID=815334482&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22PDEM30_11_OTA_10901510_all_RjUGGpYGiU1t_cdf23.ozip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D10240%2Cconcurrency%3D15&Signature=46Ukfo18m2aAaqIFyYeAlL6gor0%3D&x-amz-SHID=171501428&Expires=1616799211&x-amz-FSIZE=4214545136&x-amz-UFID=11514112793737412
   ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
